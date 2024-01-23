@@ -1,5 +1,5 @@
 #--------------------------------------------------------------------
-# Autor: Alberto Valero Mlynaricova
+# Autor: Treius
 # Fecha: 13/11/2023
 #
 # Descripción:  Programa que dependiendo del sistema operativo en el que se

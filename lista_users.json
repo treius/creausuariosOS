@@ -1,0 +1,7 @@
+{
+    "usuarios":[
+        {"nombre": "usuario1", "os": "Windows"},
+        {"nombre":"usuario2", "os":"Windows"},
+        {"nombre":"usuario3", "os":"Linux"}
+    ]
+}
